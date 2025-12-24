@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "NEUROMANCE",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-24T07:51:34.338517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEUROMANCE",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/01_NEUROMANCE_理芽.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEUROMANCE",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_NEUROMANCE_理芽.txt"
+    }
+  ]
+}
